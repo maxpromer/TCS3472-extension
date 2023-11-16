@@ -11,6 +11,6 @@
         "tcs3472_read_light"
     ],
     chip: [
-        "esp32"
+        "RP2"
     ]
 });
