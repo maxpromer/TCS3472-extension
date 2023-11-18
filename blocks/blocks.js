@@ -2,6 +2,9 @@ Blockly.defineBlocksWithJsonArray([
   {
     "type": "tcs34725_update",
     "message0": "TCS34725 update",
+    "inputsInline": true,
+    "previousStatement": null,
+    "nextStatement": null,
     "colour": "#3498DB",
     "tooltip": "",
     "helpUrl": ""
