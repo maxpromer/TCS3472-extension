@@ -7,6 +7,7 @@
     icon: "/static/icon.png", // Category icon
     color: "#3498DB", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
+        "tcs34725_update",
         "tcs34725_read_rgb",
         "tcs34725_read_light"
     ],
