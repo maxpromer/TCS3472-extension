@@ -1,7 +1,7 @@
 Blockly.defineBlocksWithJsonArray([
 {
-  "type": "tcs3472_read_rgb",
-  "message0": "TCS3472 read %1",
+  "type": "tcs34725_read_rgb",
+  "message0": "TCS34725 read %1",
   "args0": [
     {
       "type": "field_dropdown",
@@ -28,8 +28,8 @@ Blockly.defineBlocksWithJsonArray([
   "helpUrl": ""
 },
 {
-  "type": "tcs3472_read_light",
-  "message0": "TCS3472 read light",
+  "type": "tcs34725_read_light",
+  "message0": "TCS34725 read light",
   "output": "Number",
   "colour": "#3498DB",
   "tooltip": "",
